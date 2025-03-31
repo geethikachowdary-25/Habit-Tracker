@@ -7,7 +7,7 @@ const Footerb = () => {
       <h1 className='font-outfit font-semibold text-2xl text-black'>Copyright © 2025. All rights are reserved</h1>
       <div className="flex gap-2">
         <Image src={"/code-circle.svg"} alt='Mail Logo' draggable={false} width={29} height={26} />
-        <p className='font-outfit text-xl text-black'>Developed By <a className='underline font-medium' href="https://github.com/partha-999/" target='_blank'>Sadanala Parthasarathi</a></p>
+        <p className='font-outfit text-xl text-black'>Developed By <a className='underline font-medium' href="https://github.com/geethikachowdary-25/" target='_blank'>Geethika Gorijala</a></p>
       </div>
     </div>
   )
