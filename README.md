@@ -22,13 +22,6 @@ The Habit Tracker is a web application designed to help users build and maintain
 2. **Profile Picture Customization**: Allow users to upload and update their profile pictures.
 3. **Habits Tag Customization**: Enable users to tag and categorize their habits for better organization.
 4. **Responsive Design**: Optimized for use on desktops, tablets, and mobile devices.
-
-## ⚙️ Live Demo
-Check out the live demo of the Habit Tracker [here](https://pvarma-habit-tracker.vercel.app).
-
-## 📝 Figma Design
-You can find the design prototype on Figma [here](https://www.figma.com/design/wxscjao9Nv6w63dh9uLPhN/Habit-Tracker?node-id=0-1&t=HxC3g2AsFCEAKoNC-1).
-
 ## 🚀 Getting Started
 
 ### Installation Steps
@@ -58,11 +51,3 @@ You can find the design prototype on Figma [here](https://www.figma.com/design/w
    npm run dev
    ```
 6. Open your browser and navigate to `http://localhost:3000` to access the application.
-
-## Contributing
-Contributions are welcome! If you have suggestions or want to add features, feel free to fork the repo and create a PR.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Made with ❤️ by Pradeep Varma
